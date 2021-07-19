@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "next": "10.2.0",
-    "next-pwa": "^5.0.6",
+    "next-pwa": "^5.2.24",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "styled-components": "^5.2.1"
